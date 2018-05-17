@@ -4,10 +4,15 @@ A simple movies app that let's you favorite movies built using Swift!
 
 # App Screenshots
 
-![](https://raw.githubusercontent.com/basilanathan/iTunesMovies/master/screenshots/Search.png)
+<img src="https://raw.githubusercontent.com/basilanathan/iTunesMovies/master/screenshots/Search.png" width="200" height="400">
+<img src="https://raw.githubusercontent.com/basilanathan/iTunesMovies/master/screenshots/Detail.png" width="200" height="400">
+<img src="https://raw.githubusercontent.com/basilanathan/iTunesMovies/master/screenshots/Favorites.png" width="200" height="400">
+<img src="https://raw.githubusercontent.com/basilanathan/iTunesMovies/master/screenshots/Search:Favorite.png" width="200" height="400">
+
+<!-- ![](https://raw.githubusercontent.com/basilanathan/iTunesMovies/master/screenshots/Search.png)
 ![](https://raw.githubusercontent.com/basilanathan/iTunesMovies/master/screenshots/Detail.png)
 ![](https://raw.githubusercontent.com/basilanathan/iTunesMovies/master/screenshots/Favorites.png)
-![](https://raw.githubusercontent.com/basilanathan/iTunesMovies/master/screenshots/Search:Favorite.png)
+![](https://raw.githubusercontent.com/basilanathan/iTunesMovies/master/screenshots/Search:Favorite.png) -->
 
 # Inspiration
 
